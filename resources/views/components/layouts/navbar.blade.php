@@ -12,7 +12,7 @@
         <li class="dropdown">
             <a href="#" data-toggle="dropdown" class="nav-link dropdown-toggle nav-link-lg nav-link-user">
                 <div class="d-sm-none d-lg-inline-block">
-                    Hi, {{ Auth::user()->name }}</div>
+                    Hi, {{ Auth::user()->name }}
                 </div>
             </a>
             <div class="dropdown-menu dropdown-menu-right">
